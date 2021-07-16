@@ -15,11 +15,10 @@ hist(strategy2, ylab="Run time", xlab="Strategy", main="")
 #boxplot of both strategy1 and strategy2
 boxplot(expRawResults, xlab="Strategy", ylab="Run time", main="")
 
-
 #Comparing strategy1 and strategy2 lines per scenario
 plot(strategy1 ~ scenario, type = "b", frame = FALSE, pch = 19, col = "red", xlab = "x", ylab = "y")
 lines(strategy2 ~ scenario, pch = 18, col = "blue", type = "b", lty = 2)
 legend("bottomleft", legend=c("Strategy 1", "Strategy 2"), col=c("red", "blue"), lty = 1:2, cex=0.8)
 
-#Comparing strategy1 and strategy2 points
+#Comparing strategy1 and strategy2 points (scatter plot)
 plot(strategy1~strategy2, xlab="Strategy 2", ylab="Strategy 1", main="")
