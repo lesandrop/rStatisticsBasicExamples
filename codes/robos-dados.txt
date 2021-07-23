@@ -1,0 +1,28 @@
+Robo,Atividade,Popularidade,Visibilidade,Tipo
+_grammar_,1236,38616,1068,Inteligente interativo
+a_quilt_bot,283,2929,388,Inteligente interativo
+accidental575,37,3111,76,Inteligente interativo
+AutoCharts,12,1714,24,Inteligente não-interativo
+autocompletejok,93,1070,8,Inteligente não-interativo
+big_ben_clock,230,484103,10546,Informativo
+censusAmericans,278,9675,308,Inteligente não-interativo
+congressedits,14,38339,134,Informativo
+dscovr_epic,110,8187,932,Informativo
+earthquakeBot,31,38691,190,Informativo
+earthquakesLA,73,225913,603,Informativo
+earthquakesSF,12,134098,58,Informativo
+everycolorbot,231,107946,12571,Informativo
+factbot1,55,3363,178,Inteligente não-interativo
+fuckeveryword,552,75062,6112,Inteligente interativo
+JstBelowTweetz,70,38868,1919,Inteligente interativo
+JustToSayBot,275,1497,118,Inteligente não-interativo
+MetaphorMagnet,162,674,8,Inteligente não-interativo
+metaphorminute,1051,875,29,Inteligente não-interativo
+mothgenerator,88,7728,262,Inteligente interativo
+MuseumBot,36,7303,327,Informativo
+oliviataters,281,6854,370,Inteligente interativo
+pentametron,20,23566,41,Inteligente interativo
+pixelsorter,1359,4209,166,Inteligente interativo
+reverseocr,46,2166,50,Inteligente não-interativo
+thinkpiecebot,315,27958,4919,Inteligente não-interativo
+TwoHeadlines,213,7846,630,Informativo
